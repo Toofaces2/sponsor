@@ -1,0 +1,26 @@
+<builds>  
+ <build>
+ <name>[COLOR chartreuse]JokerTV Kodi Edition[COLOR]</name>
+ <version>2.1</version>
+ <url>https://archive.org/download/jokertv_edition/Jokertvkodiv2.1.zip</url>
+ <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
+ <fanart>http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg</fanart>
+ <description>JokerTV Kodi Installer. Updated 15/04/24</description>
+</build>
+ <build>
+ <name>[COLOR dodgerblue]Vendetta Kodi Edition[COLOR]</name>
+ <version>1.2</version>
+ <url>https://archive.org/download/vendetta_build/Vandetta.zip</url>
+ <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
+ <fanart>https://github.com/Toofaces2/Vendetta/blob/main/fanart.jpg</fanart>
+ <description>Vendetta Kodi Installer. Updated 15/04/24</description>
+ </build>
+ <build>
+ <name>[COLOR blue]Medusa Kodi Edition[COLOR]</name>
+ <version>1.2</version>
+ <url>https://archive.org/download/medusa_build/Medusa.zip</url>
+ <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
+ <fanart>http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg</fanart>
+ <description>JokerTV Kodi Installer. Updated 28/04/24</description>
+</build>
+</builds>

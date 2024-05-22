@@ -16,7 +16,15 @@
  <description>Vendetta Kodi Installer. Updated 15/04/24</description>
  </build>
  <build>
- <name>[COLOR blue]Medusa Kodi Edition[COLOR]</name>
+ <name>[COLOR red]JokerTV Sponsor Program[COLOR]</name>
+ <version>1.0</version>
+ <url>https://archive.org/download/Sponsor/Sponsor.zip</url>
+ <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
+ <fanart>http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg</fanart>
+ <description>JokerTV Kodi Installer. Updated 24/05/24</description>
+ </build>
+ <build>
+  <name>[COLOR blue]Sponsor Program[COLOR]</name>
  <version>1.2</version>
  <url>https://archive.org/download/medusa_build/Medusa.zip</url>
  <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>

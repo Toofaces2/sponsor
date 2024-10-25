@@ -11,7 +11,7 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
   Updated 14/10/24</description>
 </build>
  <build>
- <name>[COLOR dodgerblue]Vendetta Kodi Edition[COLOR] - ([COLOR red]Offline[COLOR])</name>
+ <name>[COLOR dodgerblue]Vendetta Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
  <version>1.2</version>
  <url>https://archive.org/download/vendetta_build/Vandetta.zip</url>
  <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
@@ -19,7 +19,7 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
  <description>Vendetta Kodi Installer. Updated 15/04/24</description>
  </build>
  <build>
- <name>[COLOR blue]Medusa Kodi Edition[COLOR] - ([COLOR red]Offline[COLOR])</name>
+ <name>[COLOR blue]Medusa Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
  <version>1.2</version>
  <url>https://archive.org/download/medusa_build/Medusa.zip</url>
  <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>

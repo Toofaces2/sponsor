@@ -68,10 +68,10 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
 </build>
 <builds>
  <name>[COLOR brown]Kronk Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
- <version>1.1</version>
+ <version>1.0</version>
  <url>https://influ-encer.in/Sponsor/KronkEdition.zip</url>
  <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
  <fanart>http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg</fanart>
  <description>JokerTV Kodi Installer. Release date: 15/12/24</description>
- </build>
+</build>
 </builds>

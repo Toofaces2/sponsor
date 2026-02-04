@@ -8,7 +8,7 @@
  <description>JokerTV Kodi Installer. Unser Kodi Installer ist vollständig kostenfrei, aber es gelten einige grundlegende Dinge:
 Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung für jegliche Schäden, Inhalte, Verfügbarkeit oder Zuverlässigkeit. Wir übernehmen außerdem keine Verantwortung und können ihnen keine Zusicherungen geben. Wir übernehmen keine Haftung für Inhalte, welche von Nutzern in die Build eingetragen wurde oder welche auf Websites Dritter verweisen oder befinden. Sofern rechtswidrige Inhalte auf unserer Website zu finden sind, so bitten wir den Rechteinhaber, diese schnellstmöglich per Email uns mitzuteilen!
 
-  Updated 04/10/25</description>
+  Updated 04/02/26</description>
 </build>
  <build>
  <name>[COLOR dodgerblue]Vendetta Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
@@ -17,8 +17,18 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
  <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
  <fanart>https://github.com/Toofaces2/Vendetta/blob/main/fanart.jpg</fanart>
  <description>Vendetta Kodi Installer. Updated 15/04/24</description>
-</build>
- <build>
+ </build>
+  <build>
+  <name>KodiBox 64</name>
+  <version>1.8</version>
+  <kodi>K21</kodi>
+  <size>57MB</size>
+  <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox64/kodibox64.zip</url>
+  <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
+  <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
+  <description>Updated 31 01 2026</description>
+ </build>
+  <build>
  <name>[COLOR blue]Medusa Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
  <version>1.2</version>
  <url>https://archive.org/download/medusa_build/Medusa.zip</url>

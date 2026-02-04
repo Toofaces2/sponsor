@@ -19,14 +19,14 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
  <description>Vendetta Kodi Installer. Updated 15/04/24</description>
  </build>
   <build>
-  <name>KodiBox 64</name>
+  <name>[COLOR gray]KodiBox 64[COLOR] - ([COLOR green]Online[COLOR])</name>
   <version>1.8</version>
   <kodi>K21</kodi>
   <size>57MB</size>
   <url>https://github.com/kodibox32/kodibox/releases/download/Kodibox64/kodibox64.zip</url>
   <icon>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/icon.jpg</icon>
   <fanart>https://raw.githubusercontent.com/kodibox32/kodibox/refs/heads/master/fanart.jpg</fanart>
-  <description>Updated 31 01 2026</description>
+  <description>Updated 31.01.2026</description>
  </build>
   <build>
  <name>[COLOR blue]Medusa Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>

@@ -18,6 +18,14 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
  <fanart>https://github.com/Toofaces2/Vendetta/blob/main/fanart.jpg</fanart>
  <description>Vendetta Kodi Installer. Updated 15/04/24</description>
  </build>
+ <build>
+ <name>[COLOR dodgerblue]Michaz Kodi Build[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <version>1.0</version>
+ <url>https://bit.ly/buildmichaz</url>
+ <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
+ <fanart>https://github.com/Toofaces2/Vendetta/blob/main/fanart.jpg</fanart>
+ <description>Michaz Build Kodi Installer. Updated 20/02/26</description>
+ </build>
   <build>
   <name>[COLOR gray]KodiBox 64[COLOR] - ([COLOR green]Online[COLOR])</name>
   <version>1.8</version>

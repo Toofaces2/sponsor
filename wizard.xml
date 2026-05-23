@@ -1,6 +1,7 @@
 <builds>  
  <build>
- <name>[COLOR chartreuse]JokerTV Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <name>[COLOR chartreuse]JokerTV Kodi Edition[COLOR] -([COLOR red]Offline[COLOR])</name>
+ <version>1.2</version</name>
  <version>2.2</version>
  <url>https://influ-encer.in/Jokertv2.zip</url>
  <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
@@ -11,7 +12,7 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
   Updated 04/02/26</description>
 </build>
  <build>
- <name>[COLOR dodgerblue]Vendetta Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <name>[COLOR dodgerblue]Vendetta Kodi Edition[COLOR] - ([COLOR red]Offline[COLOR])</name>
  <version>1.2</version>
  <url>https://archive.org/download/vendetta_build/Vandetta.zip</url>
  <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
@@ -19,7 +20,7 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
  <description>Vendetta Kodi Installer. Updated 15/04/24</description>
  </build>
  <build>
- <name>[COLOR yellow]Michaz Kodi Build[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <name>[COLOR yellow]Michaz Kodi Build[COLOR] - ([COLOR ree]Offline[COLOR])</name>
  <version>1.0</version>
  <url>https://bit.ly/buildmichaz</url>
  <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
@@ -27,7 +28,7 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
  <description>Michaz Build Kodi Installer. Updated 20/02/26</description>
  </build>
  <build>
- <name>[COLOR cyan]Fantastic Build[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <name>[COLOR cyan]Fantastic Build[COLOR] - ([COLOR ree]Offline[COLOR])</name>
  <version>1.0</version>
  <url>https://influ-encer.in/Sponsor/KodiBuild2.zip</url>
  <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
@@ -35,7 +36,7 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
  <description>Updated 20/02/26</description>
  </build>
   <build>
-  <name>[COLOR gray]KodiBox 64[COLOR] - ([COLOR green]Online[COLOR])</name>
+  <name>[COLOR gray]KodiBox 64[COLOR] - ([COLOR ree]Offline[COLOR])</name>
   <version>1.8</version>
   <kodi>K21</kodi>
   <size>57MB</size>
@@ -45,7 +46,7 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
   <description>Updated 31.01.2026</description>
  </build>
   <build>
- <name>[COLOR blue]Medusa Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <name>[COLOR blue]Medusa Kodi Edition[COLOR] - ([COLOR ree]Offline[COLOR])</name>
  <version>1.2</version>
  <url>https://archive.org/download/medusa_build/Medusa.zip</url>
  <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
@@ -53,7 +54,7 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
  <description>JokerTV Kodi Installer. Release date: 28/04/24</description>
 </build>
  <build>
- <name>[COLOR yellow]Venom Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <name>[COLOR yellow]Venom Kodi Edition[COLOR] - ([COLOR red]Offline[COLOR])</name>
  <version>1.1</version>
  <url>https://influ-encer.in/Venom-Sponsor.zip</url>
  <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
@@ -61,7 +62,7 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
  <description>JokerTV Kodi Installer. Release date: 28/04/24</description>
 </build>
  <build>
- <name>[COLOR white]Weihnachten 2026 Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <name>[COLOR white]Weihnachten 2026 Edition[COLOR] - ([COLOR ree]Offline[COLOR])</name>
  <version>1.0</version>
  <url>https://influ-encer.in/Weihnachten.zip</url>
  <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
@@ -69,7 +70,7 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
  <description>JokerTV Kodi Installer. Release date: 28/04/24</description>
 </build>
  <build>
- <name>[COLOR red]JokerTV Sponsor Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <name>[COLOR red]JokerTV Sponsor Edition[COLOR] - ([COLOR red]Offline[COLOR])</name>
  <version>2.0</version>
  <url>https://influ-encer.in/Sponsor.zip</url>
  <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
@@ -77,7 +78,7 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
  <description>Passwort per Email erhältlich!</description>
 </build>
  <build>
- <name>[COLOR orange]18+ Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <name>[COLOR orange]18+ Kodi Edition[COLOR] - ([COLOR red]Offline[COLOR])</name>
  <version>1.0</version>
  <url>https://influ-encer.in/18.zip</url>
  <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
@@ -85,7 +86,7 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
  <description>JokerTV Kodi Installer. Release date: 01/11/24</description>
 </build>
  <build>
- <name>[COLOR purple]Sport Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <name>[COLOR purple]Sport Edition[COLOR] - ([COLOR red]Offline[COLOR])</name>
  <version>1.1</version>
  <url>https://influ-encer.in/Sport.zip</url>
  <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
@@ -93,7 +94,7 @@ Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung f
  <description>JokerTV Kodi Installer. Release date: 15/10/24</description>
 </build>
  <build>
- <name>[COLOR brown]Kronk Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <name>[COLOR brown]Kronk Edition[COLOR] - ([COLOR red]Offline[COLOR])</name>
  <version>1.0</version>
  <url>https://influ-encer.in/Sponsor/KronkEdition.zip</url>
  <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>

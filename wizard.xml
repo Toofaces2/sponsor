@@ -1,8 +1,8 @@
 <builds>  
  <build>
- <name>[COLOR chartreuse]JokerTV Kodi Edition[COLOR] - ([COLOR red]Offline[COLOR])</name>
+ <name>[COLOR chartreuse]JokerTV Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
  <version>2.2</version>
- <url>https://influ-encer.in/Jokertv2.zip</url>
+ <url>https://archive.org/download/kodi123_202608/kodi123.zip</url>
  <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
  <fanart>http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg</fanart>
  <description>JokerTV Kodi Installer. Unser Kodi Installer ist vollständig kostenfrei, aber es gelten einige grundlegende Dinge:
